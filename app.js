@@ -29,7 +29,7 @@ function renderWeatherAlerts(j){
 }
 
 function normalizeEvents(payload){
-  const arr=Array.isArray(payload)?payload:(payload.events||payload.data||payload.results||[]);
+  const arr=Array.isArray(payload)?payload:(payload.events||payload['événements']||payload.data||payload.results||[]);
   return arr.map(e=>({
     title:e.title?.fr||e.title||e.name||e.nom||'Événement',
     date:e.date||e.startDate||e.start||e.timing?.begin||e.date_debut||'',
