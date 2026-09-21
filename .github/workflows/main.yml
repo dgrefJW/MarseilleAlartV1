@@ -1,4 +1,4 @@
-name: Test Marseille Alert
+name: Test Marseille Alert 2
 
 on:
   workflow_dispatch:
