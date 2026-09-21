@@ -38,7 +38,7 @@ function normalizeEvents(payload){
     url:e.url||e.link||e.website||'',
     category:e.category||e.type||e.type_detail||'Événement',
     source:e.source||'France Evasion / DATAtourisme'
-  })).filter(e=>/marseille|1300[1-6]/i.test((e.place||'')+' '+(e.title||''))).slice(0,40);
+  })).slice(0,40);
 }
 function eventPriority(e){
   const s=(e.title+' '+e.category).toLowerCase();
