@@ -1,9 +1,7 @@
 name: Marseille Alert - Veille
 
 on:
-  push:
-    branches:
-      - main
+  
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
