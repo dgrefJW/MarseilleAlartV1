@@ -1,6 +1,6 @@
 const LAT=43.2965,LON=5.3698;
 const liveWeather=`https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}&current=temperature_2m,relative_humidity_2m,apparent_temperature,wind_speed_10m,weather_code&hourly=precipitation_probability,wind_gusts_10m,weather_code&forecast_days=2&timezone=Europe%2FParis`;
-const cacheWeather='data/weather.json', cacheEvents='data/events.json';
+const cacheWeather='weather.json', cacheEvents='events.json';
 const $=id=>document.getElementById(id);
 const codeText={0:['☀️','Ciel dégagé'],1:['🌤️','Peu nuageux'],2:['⛅','Partiellement nuageux'],3:['☁️','Couvert'],45:['🌫️','Brouillard'],48:['🌫️','Brouillard givrant'],51:['🌦️','Bruine'],53:['🌦️','Bruine'],55:['🌧️','Bruine forte'],61:['🌧️','Pluie faible'],63:['🌧️','Pluie'],65:['🌧️','Forte pluie'],71:['🌨️','Neige'],73:['🌨️','Neige'],75:['❄️','Forte neige'],80:['🌦️','Averses'],81:['🌦️','Averses'],82:['⛈️','Fortes averses'],95:['⛈️','Orage'],96:['⛈️','Orage avec grêle'],99:['⛈️','Orage avec grêle']};
 
