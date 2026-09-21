@@ -51,7 +51,7 @@ async function loadEvents(){
     const arr=normalizeEvents(data);
     $('eventCount').textContent=arr.length+' à venir';
     $('events').innerHTML=arr.length?arr.map(e=>`<article class="card ${eventPriority(e)}"><span class="tag">${esc(e.category)}</span><h3>${esc(e.title)}</h3><p>📍 ${esc(e.place)}${e.date?' · 📅 '+esc(e.date):''}</p>${e.url?`<p><a href="${esc(e.url)}" target="_blank" rel="noopener">Voir la source →</a></p>`:''}</article>`).join(''):`<div class="card"><h3>Aucun événement en cache</h3><p>La veille automatique n’a pas encore publié de résultat.</p></div>`;
-    if(data.updatedAt)$('eventsSource').textContent='Veille : '+new Date(data.updatedAt).toLocaleString('fr-FR',{dateStyle:'short',timeStyle:'short'});
+    if(data.updatedAt && $('eventsSource')) $('eventsSource').textContent='Veille : '+new Date(data.updatedAt).toLocaleString('fr-FR',{dateStyle:'short',timeStyle:'short'});
   }catch(e){
     $('eventCount').textContent='Indisponible';
     $('events').innerHTML='<div class="card"><h3>Événements temporairement indisponibles</h3><p>La prochaine mise à jour automatique réessaiera la source.</p></div>';
