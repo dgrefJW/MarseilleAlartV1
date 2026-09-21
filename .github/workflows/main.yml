@@ -1,14 +1,36 @@
-name: Test Marseille Alert
+name: Marseille Alert - Veille
 
 on:
   push:
     branches:
       - main
   workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  test:
+  veille:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Test
-        run: echo "Marseille Alert fonctionne !"
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Mettre à jour les données
+        run: python3 update_data.py
+
+      - name: Enregistrer les nouvelles données
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add events.json weather.json
+          git diff --cached --quiet || git commit -m "Mise à jour automatique Marseille Alert"
+          git push
