@@ -1,7 +1,7 @@
 import json, urllib.request, datetime, os, re
 
-OUT="MarseilleAlertBuild/data"
-os.makedirs(OUT, exist_ok=True)
+OUT="."
+
 now=datetime.datetime.now(datetime.timezone.utc).isoformat()
 
 def get(url):
@@ -19,7 +19,7 @@ try:
 except Exception as e:
     events={"updatedAt":now,"source":"France Evasion / DATAtourisme","events":[],"error":str(e)}
 
-with open(f"{OUT}/events.json","w",encoding="utf-8") as f:
+with open("events.json","w",encoding="utf-8") as f:
     json.dump(events,f,ensure_ascii=False,indent=2)
 
 weather_url=("https://api.open-meteo.com/v1/forecast?latitude=43.2965&longitude=5.3698"
@@ -36,5 +36,5 @@ try:
 except Exception as e:
     w={"updatedAt":now,"source":"Open-Meteo","error":str(e)}
 
-with open(f"{OUT}/weather.json","w",encoding="utf-8") as f:
+with open("weather.json","w",encoding="utf-8") as f:
     json.dump(w,f,ensure_ascii=False,indent=2)
