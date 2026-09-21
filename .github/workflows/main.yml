@@ -22,8 +22,8 @@ jobs:
         with:
           python-version: "3.x"
 
-          - name: Installer les dépendances
-  run: python3 -m pip install beautifulsoup4
+       - name: Installer les dépendances
+        run: python3 -m pip install beautifulsoup4
 
       - name: Mettre à jour les données
         run: python3 update_data.py
