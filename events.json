@@ -1,6 +1,6 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-09-21T10:43:44.968105+00:00",
   "source": "France Evasion / DATAtourisme",
   "events": [],
-  "error": "En attente de la première exécution GitHub Actions."
+  "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1082)>"
 }
