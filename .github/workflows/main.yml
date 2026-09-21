@@ -1,6 +1,9 @@
-name: Test Marseille Alert 2
+name: Test Marseille Alert
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
