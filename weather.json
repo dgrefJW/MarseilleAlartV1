@@ -1,7 +1,7 @@
 {
   "latitude": 43.3,
   "longitude": 5.369999,
-  "generationtime_ms": 0.7669925689697266,
+  "generationtime_ms": 0.8040666580200195,
   "utc_offset_seconds": 7200,
   "timezone": "Europe/Paris",
   "timezone_abbreviation": "GMT+2",
@@ -232,7 +232,7 @@
       0
     ]
   },
-  "updatedAt": "2026-09-21T10:52:55.846259+00:00",
+  "updatedAt": "2026-09-21T10:54:39.587841+00:00",
   "source": "Open-Meteo",
   "alerts": []
 }
