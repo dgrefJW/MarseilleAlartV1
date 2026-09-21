@@ -22,6 +22,7 @@ ZIP_RE = re.compile(r"\b1300[1-6]\b")
 
 GENERIC = {
     "nos belles adresses","marseille","agenda","voir plus","en savoir plus",
+    "aller au contenu principal",
     "suivante","page suivante","sport","théâtre","sports & loisirs",
     "transports en commun","10e arrondissement","11e arrondissement",
     "12e arrondissement","13e arrondissement","14e arrondissement",
