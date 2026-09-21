@@ -45,6 +45,18 @@ function eventPriority(e){
   if(/manifest|rassemble|match|football|concert|festival|foire|marathon|course|vélodrome|velodrome/.test(s))return 'important';
   return 'info';
 }
+function formatEventDate(date){
+  if(!date) return '';
+  const d=new Date(date+'T12:00:00');
+  if(Number.isNaN(d.getTime())) return date;
+  return d.toLocaleDateString('fr-FR',{
+    weekday:'long',
+    day:'numeric',
+    month:'long',
+    year:'numeric'
+  });
+}
+
 async function loadEvents(){
   try{
     const data=await getJson(cacheEvents);
