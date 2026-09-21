@@ -1,0 +1,8 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#07111f"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="styles.css"><title>Marseille Alert</title></head><body><main>
+<header><div><div class="eyebrow">MARSEILLE</div><h1>Alert</h1></div><button id="notifyBtn" class="ghost">🔔 Alertes</button></header>
+<section class="hero"><div><div class="muted">Aujourd’hui</div><div id="temp" class="temp">—°</div><div id="weatherText">Chargement météo…</div></div><div id="weatherIcon" class="weatherIcon">🌤️</div></section>
+<section class="grid"><article><span>🌡️</span><b id="feels">—°</b><small>Ressenti</small></article><article><span>💨</span><b id="wind">— km/h</b><small>Vent</small></article><article><span>💧</span><b id="humidity">—%</b><small>Humidité</small></article></section>
+<section><div class="sectionHead"><h2>À surveiller</h2><button id="refresh">Actualiser</button></div><div id="alerts" class="cards"></div></section>
+<section><div class="sectionHead"><h2>Événements</h2><span id="eventCount" class="muted"></span></div><div id="events" class="cards"></div></section>
+<footer>Sources : Open-Meteo · France Évasion / DATAtourisme. Les événements affichés dépendent des données disponibles.</footer>
+</main><script src="app.js"></script></body></html>
