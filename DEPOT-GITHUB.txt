@@ -1,0 +1,5 @@
+Marseille Alert - dépôt GitHub
+
+Ce dossier contient les fichiers du projet à téléverser dans le dépôt.
+Sur GitHub : Add file > Upload files, puis sélectionnez les fichiers de ce dossier.
+Ne téléversez pas l'archive ZIP elle-même.
