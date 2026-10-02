@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:40:05.048179+00:00",
+  "updatedAt": "2026-10-02T21:05:59.065922+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,7 +10,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fete-culturelle-de-lapres-m",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-8967821036729174461"
+      "id": "evt-5034529515099600335"
     },
     {
       "title": "Fête de quartier au Plan d’Aou",
@@ -20,7 +20,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fete-de-quartier-au-plan-daou",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-5463881571947054872"
+      "id": "evt-5321855118490744463"
     },
     {
       "title": "Fête de quartiers : Le Grand Saint-Barthelemy en fête",
@@ -30,7 +30,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fete-de-quartiers-le-grand-saint-barthelemy-en-fete",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-259739630186749351"
+      "id": "evt-3638441202642174372"
     },
     {
       "title": "Accès gratuit aux musées municipaux",
@@ -40,7 +40,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/culture/actualites/musees-gratuits-premier-dimanche-du-mois",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-2131746453556681055"
+      "id": "evt-6875628719576555732"
     },
     {
       "title": "Akimatsuri, fête de l'automne japonaise",
@@ -50,7 +50,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/international/actualites/akimatsuri-fete-automne",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-8136037766598519787"
+      "id": "evt-4883540451664008224"
     },
     {
       "title": "Fête des Chartreux",
@@ -60,7 +60,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fete-des-chartreux",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-3975652353953957807"
+      "id": "evt-2237446872599468078"
     },
     {
       "title": "Fêtes de quartiers : Noailles en fête",
@@ -70,7 +70,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fetes-de-quartiers-noailles-en-fete",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-6236590035276681601"
+      "id": "evt-249699418176469897"
     },
     {
       "title": "Journée mondiale des animaux",
@@ -80,7 +80,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/environnement/actualites/journee-mondiale-des-animaux",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-7697256046181606178"
+      "id": "evt-5648513695518421654"
     },
     {
       "title": "Exposition \"Dinosaures de Provence\"",
@@ -90,7 +90,7 @@
       "priority": "info",
       "url": "https://musees.marseille.fr/dinosaures-de-provence",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-4789623702731677755"
+      "id": "evt-5011353994816110630"
     },
     {
       "title": "Le Jour de la Nuit",
@@ -100,7 +100,7 @@
       "priority": "urgent",
       "url": "https://www.marseille.fr/environnement/actualites/le-jour-de-la-nuit",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-4535741105093347805"
+      "id": "evt-4008621968360529899"
     },
     {
       "title": "REPORTEE (en attente de date) : Fête de quartier Lodi",
@@ -110,7 +110,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fete-de-quartier-lodi",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-2485084039792838846"
+      "id": "evt-551888522933926461"
     },
     {
       "title": "Échecs en fête",
@@ -120,7 +120,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/sports-loisirs/actualites/echecs-en-fete",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-7005258468883830375"
+      "id": "evt-1045418851011006477"
     },
     {
       "title": "Festival des Sciences de Marseille",
@@ -130,7 +130,7 @@
       "priority": "important",
       "url": "https://www.sortiramarseille.fr/agenda/festival-des-sciences-de-marseille/",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-8713096159674219379"
+      "id": "evt-8536566812973989038"
     },
     {
       "title": "REPORTEE - Fête de quartier : Saint-Gabriel - Bon Secours ''Retour vers le futur''",
@@ -140,7 +140,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/reportee-fete-de-quartier-saint-gabriel-bon-secours-retour-vers-le-futur",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-3625331563499332642"
+      "id": "evt-505575589079890789"
     },
     {
       "title": "Fêtes de quartiers : Les Escourtines : Culture en folie, générations réunies",
@@ -150,7 +150,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fetes-de-quartiers-les-escourtines-culture-en-folie-generations-reunies",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-4054881188057653860"
+      "id": "evt-461004714044254099"
     },
     {
       "title": "Fête des Trois Cités",
@@ -160,7 +160,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fete-des-trois-cites",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-3294696063489690010"
+      "id": "evt-6356462946703285145"
     },
     {
       "title": "La fête du mauvais pas sous la rose",
@@ -170,7 +170,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/la-fete-du-mauvais-pas-sous-la-rose-0",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-8898837719952843639"
+      "id": "evt-3783349942974547507"
     },
     {
       "title": "REPORTEE : La fête du vivre ensemble",
@@ -180,7 +180,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/reportee-la-fete-du-vivre-ensemble",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-7122480529237933566"
+      "id": "evt-3048806867985984663"
     },
     {
       "title": "Bienvenue Halloween",
@@ -190,7 +190,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/evenements/bienvenue-halloween",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-7897097132151752418"
+      "id": "evt-8178877052850808059"
     },
     {
       "title": "Une saison de fêtes : Saint Jérôme- Les Balustres- La Cerisaie",
@@ -200,7 +200,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/une-saison-de-fetes-saint-jerome-les-balustres-la-cerisaie-4",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-6770314166128284020"
+      "id": "evt-3658658001892359785"
     },
     {
       "title": "REPORTEE : Mémoires et rencontres",
@@ -210,7 +210,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/evenements/memoires-et-rencontres",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-1698700013690869659"
+      "id": "evt-4585384728101086098"
     },
     {
       "title": "Et ils vécurent heureux",
@@ -220,7 +220,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/evenements/et-ils-vecurent-heureux-2",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-8429347385064649623"
+      "id": "evt-4980988744315730934"
     },
     {
       "title": "Lilas en fête",
@@ -230,7 +230,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/lilas-en-fete",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-6968343962822830937"
+      "id": "evt-8458638117524287453"
     }
   ],
   "errors": []
