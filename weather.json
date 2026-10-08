@@ -1,7 +1,7 @@
 {
   "latitude": 43.3,
   "longitude": 5.369999,
-  "generationtime_ms": 4030.5885076522827,
+  "generationtime_ms": 0.7339715957641602,
   "utc_offset_seconds": 7200,
   "timezone": "Europe/Paris",
   "timezone_abbreviation": "GMT+2",
@@ -16,12 +16,12 @@
     "weather_code": "wmo code"
   },
   "current": {
-    "time": "2026-10-08T20:00",
+    "time": "2026-10-08T20:45",
     "interval": 900,
-    "temperature_2m": 15.8,
-    "relative_humidity_2m": 66,
-    "apparent_temperature": 10.4,
-    "wind_speed_10m": 36.8,
+    "temperature_2m": 15.6,
+    "relative_humidity_2m": 71,
+    "apparent_temperature": 9.4,
+    "wind_speed_10m": 39.5,
     "weather_code": 0
   },
   "hourly_units": {
@@ -153,12 +153,12 @@
       67.0,
       70.9,
       69.1,
-      74.2,
-      69.8,
-      75.7,
+      72.7,
+      76.7,
       74.5,
-      74.7,
-      71.6,
+      75.9,
+      75.6,
+      70.8,
       63.7,
       59.0,
       44.6,
@@ -232,13 +232,13 @@
       1
     ]
   },
-  "updatedAt": "2026-10-08T18:07:26.619259+00:00",
+  "updatedAt": "2026-10-08T18:45:53.386307+00:00",
   "source": "Open-Meteo",
   "alerts": [
     {
       "level": "urgent",
       "title": "Rafales fortes",
-      "message": "Jusqu’à 76 km/h prévues dans les prochaines 24 h."
+      "message": "Jusqu’à 77 km/h prévues dans les prochaines 24 h."
     },
     {
       "level": "info",
