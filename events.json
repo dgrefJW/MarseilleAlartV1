@@ -1,17 +1,7 @@
 {
-  "updatedAt": "2026-10-09T00:52:52.727875+00:00",
+  "updatedAt": "2026-10-09T01:11:45.733763+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
-    {
-      "title": "0 Nos belles adresses Patio Massilia Comedy Club 2026-10-08 9 octobre 2026 Marseille Spectacle 1",
-      "date": "2026-10-08",
-      "place": "",
-      "category": "Spectacle",
-      "priority": "info",
-      "url": "https://www.myprovence.fr/agenda/spectacle/marseille/patio-massilia-comedy-club",
-      "source": "MyProvence – Agenda Marseille",
-      "id": "evt-1154187516907234266"
-    },
     {
       "title": "Exposition \"Dinosaures de Provence\"",
       "date": "2026-10-10",
@@ -20,7 +10,7 @@
       "priority": "info",
       "url": "https://musees.marseille.fr/dinosaures-de-provence",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-1575200561770636938"
+      "id": "evt-195789490642595581"
     },
     {
       "title": "Le Jour de la Nuit",
@@ -30,7 +20,7 @@
       "priority": "urgent",
       "url": "https://www.marseille.fr/environnement/actualites/le-jour-de-la-nuit",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-2778072458363449610"
+      "id": "evt-9042008874626856169"
     },
     {
       "title": "REPORTEE (en attente de date) : Fête de quartier Lodi",
@@ -40,7 +30,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fete-de-quartier-lodi",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-7197968581204996341"
+      "id": "evt-762502254779078862"
     },
     {
       "title": "Échecs en fête",
@@ -50,7 +40,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/sports-loisirs/actualites/echecs-en-fete",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-3112993477350639025"
+      "id": "evt-736959354351073591"
     },
     {
       "title": "Festival des Sciences de Marseille",
@@ -60,7 +50,7 @@
       "priority": "important",
       "url": "https://www.sortiramarseille.fr/agenda/festival-des-sciences-de-marseille/",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-3728836650322844320"
+      "id": "evt-7996930592166543889"
     },
     {
       "title": "REPORTEE - Fête de quartier : Saint-Gabriel - Bon Secours ''Retour vers le futur''",
@@ -70,7 +60,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/reportee-fete-de-quartier-saint-gabriel-bon-secours-retour-vers-le-futur",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-1774290607376689333"
+      "id": "evt-4141595194340342384"
     },
     {
       "title": "Fêtes de quartiers : Les Escourtines : Culture en folie, générations réunies",
@@ -80,7 +70,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fetes-de-quartiers-les-escourtines-culture-en-folie-generations-reunies",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-8728800468255705597"
+      "id": "evt-3965610230143114665"
     },
     {
       "title": "Fête des Trois Cités",
@@ -90,7 +80,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fete-des-trois-cites",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-5434371733402511888"
+      "id": "evt-9098055317593936595"
     },
     {
       "title": "La fête du mauvais pas sous la rose",
@@ -100,7 +90,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/la-fete-du-mauvais-pas-sous-la-rose-0",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-9183795730795413103"
+      "id": "evt-1388569215410704104"
     },
     {
       "title": "REPORTEE : La fête du vivre ensemble",
@@ -110,7 +100,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/reportee-la-fete-du-vivre-ensemble",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-6155284934551191764"
+      "id": "evt-251423783174908896"
     },
     {
       "title": "Bienvenue Halloween",
@@ -120,7 +110,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/evenements/bienvenue-halloween",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-3609107011743622772"
+      "id": "evt-6682696649506213583"
     },
     {
       "title": "Une saison de fêtes : Saint Jérôme- Les Balustres- La Cerisaie",
@@ -130,7 +120,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/une-saison-de-fetes-saint-jerome-les-balustres-la-cerisaie-4",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-4336944974227519721"
+      "id": "evt-5039459816397352471"
     },
     {
       "title": "REPORTEE : Mémoires et rencontres",
@@ -140,7 +130,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/evenements/memoires-et-rencontres",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-1625323784226047980"
+      "id": "evt-5074078453473718758"
     },
     {
       "title": "Et ils vécurent heureux",
@@ -150,7 +140,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/evenements/et-ils-vecurent-heureux-2",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-4574595758082232239"
+      "id": "evt-3175264237591539234"
     },
     {
       "title": "Lilas en fête",
@@ -160,8 +150,10 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/lilas-en-fete",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-4127690126875296646"
+      "id": "evt-5944353528916005259"
     }
   ],
-  "errors": []
+  "errors": [
+    "MyProvence – Agenda Marseille: HTTPError: HTTP Error 500: Internal Server Error"
+  ]
 }
