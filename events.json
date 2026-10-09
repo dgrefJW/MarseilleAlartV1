@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T02:07:28.930820+00:00",
+  "updatedAt": "2026-10-09T02:40:51.276342+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,12 +10,158 @@
       "priority": "info",
       "url": "https://www.myprovence.fr/agenda/spectacle/marseille/patio-massilia-comedy-club",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-1802567667068320496"
+      "id": "evt-5956142835372851312"
+    },
+    {
+      "title": "Exposition \"Dinosaures de Provence\"",
+      "date": "2026-10-10",
+      "place": "",
+      "category": "Exposition",
+      "priority": "info",
+      "url": "https://musees.marseille.fr/dinosaures-de-provence",
+      "source": "Ville de Marseille – Que faire cette semaine",
+      "id": "evt-2720751541795920603"
+    },
+    {
+      "title": "Le Jour de la Nuit",
+      "date": "2026-10-10",
+      "place": "",
+      "category": "Manifestation",
+      "priority": "urgent",
+      "url": "https://www.marseille.fr/environnement/actualites/le-jour-de-la-nuit",
+      "source": "Ville de Marseille – Que faire cette semaine",
+      "id": "evt-7553525944983625794"
+    },
+    {
+      "title": "REPORTEE (en attente de date) : Fête de quartier Lodi",
+      "date": "2026-10-10",
+      "place": "13006",
+      "category": "Fête / vie locale",
+      "priority": "important",
+      "url": "https://www.marseille.fr/evenements/fete-de-quartier-lodi",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-3424761301064716691"
+    },
+    {
+      "title": "Échecs en fête",
+      "date": "2026-10-10",
+      "place": "",
+      "category": "Fête / vie locale",
+      "priority": "important",
+      "url": "https://www.marseille.fr/sports-loisirs/actualites/echecs-en-fete",
+      "source": "Ville de Marseille – Que faire cette semaine",
+      "id": "evt-7560302029022141824"
+    },
+    {
+      "title": "Festival des Sciences de Marseille",
+      "date": "2026-10-11",
+      "place": "",
+      "category": "Festival",
+      "priority": "important",
+      "url": "https://www.sortiramarseille.fr/agenda/festival-des-sciences-de-marseille/",
+      "source": "Ville de Marseille – Que faire cette semaine",
+      "id": "evt-5473688792635402524"
+    },
+    {
+      "title": "REPORTEE - Fête de quartier : Saint-Gabriel - Bon Secours ''Retour vers le futur''",
+      "date": "2026-10-16",
+      "place": "",
+      "category": "Fête / vie locale",
+      "priority": "important",
+      "url": "https://www.marseille.fr/evenements/reportee-fete-de-quartier-saint-gabriel-bon-secours-retour-vers-le-futur",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-6309955190381663864"
+    },
+    {
+      "title": "Fêtes de quartiers : Les Escourtines : Culture en folie, générations réunies",
+      "date": "2026-10-17",
+      "place": "",
+      "category": "Fête / vie locale",
+      "priority": "important",
+      "url": "https://www.marseille.fr/evenements/fetes-de-quartiers-les-escourtines-culture-en-folie-generations-reunies",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-2331413334220733120"
+    },
+    {
+      "title": "Fête des Trois Cités",
+      "date": "2026-10-23",
+      "place": "",
+      "category": "Sport",
+      "priority": "important",
+      "url": "https://www.marseille.fr/evenements/fete-des-trois-cites",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-1439653937374540192"
+    },
+    {
+      "title": "La fête du mauvais pas sous la rose",
+      "date": "2026-10-24",
+      "place": "",
+      "category": "Fête / vie locale",
+      "priority": "important",
+      "url": "https://www.marseille.fr/evenements/la-fete-du-mauvais-pas-sous-la-rose-0",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-7015420847709874786"
+    },
+    {
+      "title": "REPORTEE : La fête du vivre ensemble",
+      "date": "2026-10-24",
+      "place": "",
+      "category": "Fête / vie locale",
+      "priority": "important",
+      "url": "https://www.marseille.fr/evenements/reportee-la-fete-du-vivre-ensemble",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-6638516913228474695"
+    },
+    {
+      "title": "Bienvenue Halloween",
+      "date": "2026-10-26",
+      "place": "",
+      "category": "Événement",
+      "priority": "info",
+      "url": "https://www.marseille.fr/evenements/bienvenue-halloween",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-1835798988833661832"
+    },
+    {
+      "title": "Une saison de fêtes : Saint Jérôme- Les Balustres- La Cerisaie",
+      "date": "2026-10-30",
+      "place": "",
+      "category": "Fête / vie locale",
+      "priority": "important",
+      "url": "https://www.marseille.fr/evenements/une-saison-de-fetes-saint-jerome-les-balustres-la-cerisaie-4",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-7428083079006922949"
+    },
+    {
+      "title": "REPORTEE : Mémoires et rencontres",
+      "date": "2026-11-07",
+      "place": "13001",
+      "category": "Événement",
+      "priority": "info",
+      "url": "https://www.marseille.fr/evenements/memoires-et-rencontres",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-5075936288275953670"
+    },
+    {
+      "title": "Et ils vécurent heureux",
+      "date": "2026-12-18",
+      "place": "",
+      "category": "Événement",
+      "priority": "info",
+      "url": "https://www.marseille.fr/evenements/et-ils-vecurent-heureux-2",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-967389375896107740"
+    },
+    {
+      "title": "Lilas en fête",
+      "date": "2026-12-19",
+      "place": "",
+      "category": "Fête / vie locale",
+      "priority": "important",
+      "url": "https://www.marseille.fr/evenements/lilas-en-fete",
+      "source": "Ville de Marseille – Fêtes de quartiers",
+      "id": "evt-7435003335369753348"
     }
   ],
-  "errors": [
-    "Ville de Marseille – Que faire cette semaine: HTTPError: HTTP Error 403: Forbidden",
-    "Ville de Marseille – Fêtes de quartiers: HTTPError: HTTP Error 403: Forbidden",
-    "Mairie 15/16 – Agenda: HTTPError: HTTP Error 403: Forbidden"
-  ]
+  "errors": []
 }
