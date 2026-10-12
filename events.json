@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:07:57.807379+00:00",
+  "updatedAt": "2026-10-12T20:43:35.466966+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,7 +10,7 @@
       "priority": "urgent",
       "url": "https://www.marseille.fr/sante/actualites/octobre-rose",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-4136565000922863075"
+      "id": "evt-3567150997326677980"
     },
     {
       "title": "REPORTEE - Fête de quartier : Saint-Gabriel - Bon Secours ''Retour vers le futur''",
@@ -20,7 +20,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/reportee-fete-de-quartier-saint-gabriel-bon-secours-retour-vers-le-futur",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-8741585130684322010"
+      "id": "evt-4440780888639043067"
     },
     {
       "title": "Conférence \"Les prix Cantini : dessins de l'école des Beaux Arts de Marseille\"",
@@ -30,7 +30,7 @@
       "priority": "info",
       "url": "https://archives.marseille.fr/actualites/actualites-1/exposition-art-30/n:199",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-7454063456703727924"
+      "id": "evt-3161561788305023533"
     },
     {
       "title": "Fêtes de quartiers : Les Escourtines : Culture en folie, générations réunies",
@@ -40,7 +40,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fetes-de-quartiers-les-escourtines-culture-en-folie-generations-reunies",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-7718133361096508011"
+      "id": "evt-8354993527222914392"
     },
     {
       "title": "La Voie est Libre - Édition spéciale : Marseille fête la mer !",
@@ -50,7 +50,7 @@
       "priority": "urgent",
       "url": "https://www.marseille.fr/environnement/actualites/la-voie-est-libre",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-2581707804096657185"
+      "id": "evt-6824474670287189626"
     },
     {
       "title": "Marseille fête la mer !",
@@ -60,7 +60,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/fetedelamer",
       "source": "Ville de Marseille – Que faire cette semaine",
-      "id": "evt-311639945890800181"
+      "id": "evt-8240054331458186350"
     },
     {
       "title": "Fête des Trois Cités",
@@ -70,7 +70,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/fete-des-trois-cites",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-3745612396500739986"
+      "id": "evt-8275974831180305397"
     },
     {
       "title": "La fête du mauvais pas sous la rose",
@@ -80,7 +80,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/la-fete-du-mauvais-pas-sous-la-rose-0",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-7134758960548435868"
+      "id": "evt-839902756323489563"
     },
     {
       "title": "REPORTEE : La fête du vivre ensemble",
@@ -90,7 +90,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/reportee-la-fete-du-vivre-ensemble",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-5284105828633798758"
+      "id": "evt-749432406771458436"
     },
     {
       "title": "Bienvenue Halloween",
@@ -100,7 +100,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/evenements/bienvenue-halloween",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-8948357949827465150"
+      "id": "evt-1667109806187761092"
     },
     {
       "title": "Une saison de fêtes : Saint Jérôme- Les Balustres- La Cerisaie",
@@ -110,7 +110,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/une-saison-de-fetes-saint-jerome-les-balustres-la-cerisaie-4",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-7850196617679500851"
+      "id": "evt-7975677455533598016"
     },
     {
       "title": "REPORTEE : Mémoires et rencontres",
@@ -120,7 +120,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/evenements/memoires-et-rencontres",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-6057844522734219943"
+      "id": "evt-2264475229359315341"
     },
     {
       "title": "Et ils vécurent heureux",
@@ -130,7 +130,7 @@
       "priority": "info",
       "url": "https://www.marseille.fr/evenements/et-ils-vecurent-heureux-2",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-1423249204562513117"
+      "id": "evt-3334436709739874184"
     },
     {
       "title": "Lilas en fête",
@@ -140,7 +140,7 @@
       "priority": "important",
       "url": "https://www.marseille.fr/evenements/lilas-en-fete",
       "source": "Ville de Marseille – Fêtes de quartiers",
-      "id": "evt-6461485169657947117"
+      "id": "evt-8707742158077892056"
     }
   ],
   "errors": []
