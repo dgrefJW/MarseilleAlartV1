@@ -1,7 +1,7 @@
 {
   "latitude": 43.3,
   "longitude": 5.369999,
-  "generationtime_ms": 9.501934051513672,
+  "generationtime_ms": 1.4007091522216797,
   "utc_offset_seconds": 7200,
   "timezone": "Europe/Paris",
   "timezone_abbreviation": "GMT+2",
@@ -16,13 +16,13 @@
     "weather_code": "wmo code"
   },
   "current": {
-    "time": "2026-10-17T14:45",
+    "time": "2026-10-17T15:15",
     "interval": 900,
-    "temperature_2m": 23.3,
+    "temperature_2m": 23.5,
     "relative_humidity_2m": 60,
-    "apparent_temperature": 22.0,
-    "wind_speed_10m": 15.6,
-    "weather_code": 3
+    "apparent_temperature": 21.9,
+    "wind_speed_10m": 17.4,
+    "weather_code": 2
   },
   "hourly_units": {
     "time": "iso8601",
@@ -194,8 +194,8 @@
       0,
       0,
       3,
-      2,
-      2,
+      0,
+      3,
       0,
       3,
       0,
@@ -203,16 +203,16 @@
       0,
       0,
       0,
-      2,
-      2,
-      0,
       3,
       3,
       3,
       3,
-      51,
       3,
-      51,
+      3,
+      3,
+      3,
+      3,
+      3,
       3,
       3,
       3,
@@ -232,7 +232,7 @@
       3
     ]
   },
-  "updatedAt": "2026-10-17T12:59:18.476085+00:00",
+  "updatedAt": "2026-10-17T13:25:38.177972+00:00",
   "source": "Open-Meteo",
   "alerts": []
 }
