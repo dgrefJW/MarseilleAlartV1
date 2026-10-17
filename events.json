@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T19:45:51.878627+00:00",
+  "updatedAt": "2026-10-17T20:09:15.659552+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,12 +10,8 @@
       "priority": "important",
       "url": "https://www.myprovence.fr/agenda/concert/marseille/concert-de-lorchestre-philharmonique-de-marseille-orages-et",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-4175679510490156873"
+      "id": "evt-7176148971524782612"
     }
   ],
-  "errors": [
-    "Ville de Marseille – Que faire cette semaine: HTTPError: HTTP Error 503: Service Unavailable",
-    "Ville de Marseille – Fêtes de quartiers: HTTPError: HTTP Error 503: Service Unavailable",
-    "Mairie 15/16 – Agenda: HTTPError: HTTP Error 503: Service Unavailable"
-  ]
+  "errors": []
 }
