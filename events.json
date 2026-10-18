@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T07:52:21.944475+00:00",
+  "updatedAt": "2026-10-18T08:14:20.361225+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,7 +10,7 @@
       "priority": "important",
       "url": "https://www.myprovence.fr/agenda/concert/marseille/concert-de-lorchestre-philharmonique-de-marseille-orages-et",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-6241641165882595779"
+      "id": "evt-6012415689789768777"
     }
   ],
   "errors": []
