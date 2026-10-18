@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-10-18T13:51:52.218296+00:00",
+  "updatedAt": "2026-10-18T14:13:55.938254+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
-  "events": [],
-  "errors": [
-    "MyProvence – Agenda Marseille: HTTPError: HTTP Error 503: Service Unavailable"
-  ]
+  "events": [
+    {
+      "title": "0 Nos belles adresses Concert de l'Orchestre Philharmonique de Marseille - Orages et passion 2026-10-18 18 octobre 2026 Marseille Concert 1",
+      "date": "2026-10-18",
+      "place": "",
+      "category": "Concert",
+      "priority": "important",
+      "url": "https://www.myprovence.fr/agenda/concert/marseille/concert-de-lorchestre-philharmonique-de-marseille-orages-et",
+      "source": "MyProvence – Agenda Marseille",
+      "id": "evt-7462213711797592551"
+    }
+  ],
+  "errors": []
 }
