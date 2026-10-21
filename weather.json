@@ -1,7 +1,7 @@
 {
   "latitude": 43.3,
   "longitude": 5.369999,
-  "generationtime_ms": 7.699489593505859,
+  "generationtime_ms": 16.933441162109375,
   "utc_offset_seconds": 7200,
   "timezone": "Europe/Paris",
   "timezone_abbreviation": "GMT+2",
@@ -16,12 +16,12 @@
     "weather_code": "wmo code"
   },
   "current": {
-    "time": "2026-10-21T12:30",
+    "time": "2026-10-21T13:00",
     "interval": 900,
-    "temperature_2m": 16.1,
-    "relative_humidity_2m": 67,
-    "apparent_temperature": 12.7,
-    "wind_speed_10m": 24.9,
+    "temperature_2m": 16.7,
+    "relative_humidity_2m": 66,
+    "apparent_temperature": 13.0,
+    "wind_speed_10m": 24.8,
     "weather_code": 0
   },
   "hourly_units": {
@@ -82,12 +82,12 @@
       "2026-10-22T23:00"
     ],
     "precipitation_probability": [
-      97,
-      96,
-      87,
-      61,
-      28,
+      53,
       3,
+      0,
+      0,
+      0,
+      0,
       0,
       0,
       0,
@@ -145,12 +145,12 @@
       43.6,
       40.3,
       41.4,
-      42.5,
-      42.8,
       46.8,
+      46.1,
       50.4,
-      49.1,
-      50.8,
+      46.9,
+      46.3,
+      50.9,
       49.7,
       51.8,
       58.7,
@@ -232,13 +232,7 @@
       3
     ]
   },
-  "updatedAt": "2026-10-21T10:30:04.477590+00:00",
+  "updatedAt": "2026-10-21T11:03:27.115221+00:00",
   "source": "Open-Meteo",
-  "alerts": [
-    {
-      "level": "info",
-      "title": "Pluie probable",
-      "message": "Probabilité maximale de précipitations : 97 %."
-    }
-  ]
+  "alerts": []
 }
