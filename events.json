@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-10-21T01:09:15.411928+00:00",
+  "updatedAt": "2026-10-21T01:59:11.989179+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
-  "events": [],
-  "errors": [
-    "MyProvence – Agenda Marseille: HTTPError: HTTP Error 500: Internal Server Error"
-  ]
+  "events": [
+    {
+      "title": "0 Nos belles adresses Visite en famille \"Chouettes maquettes !\" 2026-10-20 21 octobre 2026 Marseille Visites guidées 1",
+      "date": "2026-10-20",
+      "place": "",
+      "category": "Événement",
+      "priority": "info",
+      "url": "https://www.myprovence.fr/agenda/visites-guidees/marseille/visite-en-famille-chouettes-maquettes",
+      "source": "MyProvence – Agenda Marseille",
+      "id": "evt-4248142507043903609"
+    },
+    {
+      "title": "0 Nos belles adresses Visite en famille \"Les petites bêtes du musée\" 2026-10-20 24 octobre 2026 Marseille Visites guidées 1",
+      "date": "2026-10-20",
+      "place": "",
+      "category": "Événement",
+      "priority": "info",
+      "url": "https://www.myprovence.fr/agenda/visites-guidees/marseille/visite-en-famille-les-petites-betes-du-musee",
+      "source": "MyProvence – Agenda Marseille",
+      "id": "evt-8216712201467504402"
+    }
+  ],
+  "errors": []
 }
