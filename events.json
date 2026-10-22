@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-22T01:43:00.127021+00:00",
+  "updatedAt": "2026-10-22T06:54:32.049279+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
-  "events": [],
+  "events": [
+    {
+      "title": "0 Nos belles adresses Lilith, ou la guerre des récits 2026-10-22 22 décembre 2025 au 22 octobre 2026 Marseille Théâtre 1",
+      "date": "2026-10-22",
+      "place": "",
+      "category": "Spectacle",
+      "priority": "info",
+      "url": "https://www.myprovence.fr/agenda/spectacle/marseille/lilith-ou-la-guerre-des-recits",
+      "source": "MyProvence – Agenda Marseille",
+      "id": "evt-7906440873719764285"
+    }
+  ],
   "errors": []
 }
