@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T00:03:16.282614+00:00",
+  "updatedAt": "2026-10-23T05:07:47.358831+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,7 +10,7 @@
       "priority": "info",
       "url": "https://www.myprovence.fr/agenda/spectacle/marseille/lilith-ou-la-guerre-des-recits",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-1802765134921866616"
+      "id": "evt-6336964109243450520"
     }
   ],
   "errors": []
