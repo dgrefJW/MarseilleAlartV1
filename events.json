@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T20:13:09.893919+00:00",
+  "updatedAt": "2026-10-25T22:42:33.009516+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,7 +10,7 @@
       "priority": "info",
       "url": "https://www.myprovence.fr/agenda/theatre/marseille/la-vie-parisienne",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-2018626215044926007"
+      "id": "evt-8689407477921149606"
     },
     {
       "title": "0 Nos belles adresses Nico Lamoneyrie - Dans le noir, nos ombres se touchent encore 2026-10-24 25 octobre 2026 Marseille Spectacle 1",
@@ -20,7 +20,7 @@
       "priority": "info",
       "url": "https://www.myprovence.fr/agenda/spectacle/marseille/nico-lamoneyrie-dans-le-noir-nos-ombres-se-touchent-encore",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-450272202954835595"
+      "id": "evt-672759640181181001"
     }
   ],
   "errors": []
