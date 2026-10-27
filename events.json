@@ -1,8 +1,6 @@
 {
-  "updatedAt": "2026-10-26T22:57:51.824578+00:00",
+  "updatedAt": "2026-10-27T01:49:52.464675+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [],
-  "errors": [
-    "MyProvence – Agenda Marseille: HTTPError: HTTP Error 429: Too Many Requests"
-  ]
+  "errors": []
 }
