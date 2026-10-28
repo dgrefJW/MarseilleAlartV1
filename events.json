@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:56:42.717976+00:00",
+  "updatedAt": "2026-10-28T07:53:26.496948+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,7 +10,7 @@
       "priority": "info",
       "url": "https://www.myprovence.fr/agenda/visites-guidees/marseille/visite-atelier-fabrique-ton-masque-de-la-peste",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-3111030220293283721"
+      "id": "evt-3290950028255060086"
     }
   ],
   "errors": []
