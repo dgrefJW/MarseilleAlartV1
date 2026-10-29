@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-10-28T20:00:17.398675+00:00",
+  "updatedAt": "2026-10-29T00:07:20.248943+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
-  "events": [
-    {
-      "title": "0 Nos belles adresses Visite atelier : Fabrique ton masque de la peste 2026-10-27 30 octobre 2026 Marseille Visites guidées 1",
-      "date": "2026-10-27",
-      "place": "",
-      "category": "Événement",
-      "priority": "info",
-      "url": "https://www.myprovence.fr/agenda/visites-guidees/marseille/visite-atelier-fabrique-ton-masque-de-la-peste",
-      "source": "MyProvence – Agenda Marseille",
-      "id": "evt-3333589930438507656"
-    }
-  ],
+  "events": [],
   "errors": []
 }
