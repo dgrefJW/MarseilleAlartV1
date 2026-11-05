@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-11-05T01:33:54.030410+00:00",
+  "updatedAt": "2026-11-05T08:49:29.202699+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
-  "events": [
-    {
-      "title": "0 Nos belles adresses Visite commentée en dessin - Pierre Puget en Langue des Signes Française (LSF) 2026-11-04 4 novembre 2026 Marseille Visites guidées 1",
-      "date": "2026-11-04",
-      "place": "",
-      "category": "Événement",
-      "priority": "info",
-      "url": "https://www.myprovence.fr/agenda/visites-guidees/marseille/visite-commentee-en-dessin-pierre-puget-en-langue-des-signes",
-      "source": "MyProvence – Agenda Marseille",
-      "id": "evt-5574558180255793714"
-    }
-  ],
+  "events": [],
   "errors": []
 }
