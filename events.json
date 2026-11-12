@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:14:41.033857+00:00",
+  "updatedAt": "2026-11-12T03:58:13.093548+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,7 +10,7 @@
       "priority": "important",
       "url": "https://www.myprovence.fr/agenda/festival/marseille/biennale-des-imaginaires-numeriques",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-8060452468156761949"
+      "id": "evt-7102896248235700029"
     }
   ],
   "errors": []
