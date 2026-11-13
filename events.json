@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-11-12T20:13:28.720499+00:00",
+  "updatedAt": "2026-11-13T01:16:50.457338+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
-  "events": [
-    {
-      "title": "1 Nos belles adresses Biennale des Imaginaires Numériques 2026-11-11 24 octobre 2026 au 17 janvier 2027 Marseille Festival 5",
-      "date": "2026-11-11",
-      "place": "",
-      "category": "Festival",
-      "priority": "important",
-      "url": "https://www.myprovence.fr/agenda/festival/marseille/biennale-des-imaginaires-numeriques",
-      "source": "MyProvence – Agenda Marseille",
-      "id": "evt-5666606794020187625"
-    }
-  ],
-  "errors": []
+  "events": [],
+  "errors": [
+    "MyProvence – Agenda Marseille: HTTPError: HTTP Error 500: Internal Server Error"
+  ]
 }
