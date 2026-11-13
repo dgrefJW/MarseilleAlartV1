@@ -1,8 +1,6 @@
 {
-  "updatedAt": "2026-11-13T01:16:50.457338+00:00",
+  "updatedAt": "2026-11-13T08:21:49.219947+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [],
-  "errors": [
-    "MyProvence – Agenda Marseille: HTTPError: HTTP Error 500: Internal Server Error"
-  ]
+  "errors": []
 }
