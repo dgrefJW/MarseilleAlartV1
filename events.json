@@ -1,6 +1,8 @@
 {
-  "updatedAt": "2026-11-22T09:10:44.806295+00:00",
+  "updatedAt": "2026-11-22T17:15:15.591903+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [],
-  "errors": []
+  "errors": [
+    "Ville de Marseille – Fêtes de quartiers: URLError: <urlopen error [Errno 104] Connection reset by peer>"
+  ]
 }
