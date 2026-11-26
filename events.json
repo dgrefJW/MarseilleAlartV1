@@ -1,6 +1,37 @@
 {
-  "updatedAt": "2026-11-25T23:25:44.152282+00:00",
+  "updatedAt": "2026-11-26T05:15:37.224082+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
-  "events": [],
+  "events": [
+    {
+      "title": "1 Nos belles adresses Exposition “NOUS, Sorcière & Sauvage” 2026-11-26 16 septembre 2026 au 13 mars 2027 Marseille Exposition 5",
+      "date": "2026-11-26",
+      "place": "",
+      "category": "Exposition",
+      "priority": "info",
+      "url": "https://www.myprovence.fr/agenda/exposition/marseille/exposition-nous-sorciere-sauvage",
+      "source": "MyProvence – Agenda Marseille",
+      "id": "evt-5486919877130622682"
+    },
+    {
+      "title": "Comment filtrer l’agenda de Marseille pour préparer un week-end culturel ?",
+      "date": "2026-11-26",
+      "place": "",
+      "category": "Sport",
+      "priority": "important",
+      "url": "https://www.myprovence.fr/agenda/evenements-manifestations/marseille#main-content",
+      "source": "MyProvence – Agenda Marseille",
+      "id": "evt-5531609303984312749"
+    },
+    {
+      "title": "Page suivante ›",
+      "date": "2026-11-26",
+      "place": "",
+      "category": "Concert",
+      "priority": "important",
+      "url": "https://www.myprovence.fr/agenda/evenements-manifestations/marseille?pg=2",
+      "source": "MyProvence – Agenda Marseille",
+      "id": "evt-803663715887307244"
+    }
+  ],
   "errors": []
 }
