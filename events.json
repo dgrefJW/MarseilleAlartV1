@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T15:31:50.771596+00:00",
+  "updatedAt": "2026-11-27T00:12:41.090322+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,7 +10,7 @@
       "priority": "info",
       "url": "https://www.myprovence.fr/agenda/exposition/marseille/exposition-nous-sorciere-sauvage",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-7665467517141944493"
+      "id": "evt-6346475693437847574"
     },
     {
       "title": "Comment filtrer l’agenda de Marseille pour préparer un week-end culturel ?",
@@ -20,7 +20,7 @@
       "priority": "important",
       "url": "https://www.myprovence.fr/agenda/evenements-manifestations/marseille#main-content",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-5737731457962012571"
+      "id": "evt-8684005367594775059"
     },
     {
       "title": "Page suivante ›",
@@ -30,7 +30,7 @@
       "priority": "important",
       "url": "https://www.myprovence.fr/agenda/evenements-manifestations/marseille?pg=2",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-3541496613726018404"
+      "id": "evt-6124406328834015427"
     }
   ],
   "errors": []
