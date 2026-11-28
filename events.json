@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T09:39:21.833073+00:00",
+  "updatedAt": "2026-11-28T17:53:11.822411+00:00",
   "source": "Ville de Marseille + Mairies de secteur + MyProvence",
   "events": [
     {
@@ -10,7 +10,7 @@
       "priority": "info",
       "url": "https://www.myprovence.fr/agenda/visites-guidees/marseille/visite-commentee-marseille-porte-du-monde-complet",
       "source": "MyProvence – Agenda Marseille",
-      "id": "evt-1544240997695540294"
+      "id": "evt-1394030729015424379"
     }
   ],
   "errors": []
